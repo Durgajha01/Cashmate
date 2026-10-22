@@ -5,8 +5,8 @@ Cashmate is a comprehensive AI-powered financial management and tracking applica
 This demo video provides a step-by-step explanation of how the CashMate system works, demonstrating its workflow, key features, and overall functionality. It offers a clear overview of the system and explains how users can interact with it.
 
 ## Project Demo
+[▶ Watch Cashmate Demo Video](https://github.com/Durgajha01/Cashmate/blob/main/Demo%20Video1.mp4)
 
-<video src="Demo%20Video1.mp4" controls width="100%"></video>
 
 ## Project Structure
 
